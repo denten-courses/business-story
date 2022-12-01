@@ -42,15 +42,15 @@ weekly discussion.
 Depending on the week, our time in class (and out) will be divided between three types of
 activities:
 
-- First, with emphasis on discussion of primary materials. Occasional "philological walks"
+- First, with the emphasis on discussion of primary materials. Occasional "philological walks"
   (discussion while walking in groups outside) weather permitting.
 - Second, with emphasis on discussion of secondary materials including literary theory,
   philosophy, and social thought.
 - Third, with emphasis on "experimental methods," involving formal analysis, parsing,
-  annotating, mapping, diagramming, site visits.
+  annotating, mapping, diagramming, or site visits.
 
-All texts will be provided via .pdf or purchased and must be present in paper format for active
-comprehension.
+All texts will be provided via *.pdf* or purchased and must be present in paper format for
+active comprehension.
 
 ## Provisional Schedule & Reading List
 
@@ -99,10 +99,10 @@ comprehension.
   Yuri Krymov’s *Tanker ‘Derbent’* (1938).
 - *Parking Garage* (1977) and Supermarket (1980) by Ilia Shtemler; *Freedom Factory* (2013) by
   Ksenia Buksha and *Laments of Northern Territories* (2014) by Irina Glebova.
-- *The Green Berets* (1965) by Robin Moore, *MASH* (1968) by Richard Hooker, J.G. Ballard’s;
-  Tom Clancy’s *Red Storm Rising* (1986), John Grisham’s *The Firm* (1991)
+- *The Green Berets* (1965) by Robin Moore, *MASH* (1968) by Richard Hooker; Tom Clancy’s *Red
+  Storm Rising* (1986), John Grisham’s *The Firm* (1991)
 - *Microserfs* (1995) by Douglas Coupland, *Company* (2007) by Max Barry, Ravi Subramanian’s
-  Bankrupt (2013), *The Circle* (2013) by Dave Eggers.
+  *Bankrupt* (2013), *The Circle* (2013) by Dave Eggers.
 
 ## Course Requirements & Grading
 
