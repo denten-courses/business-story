@@ -1,7 +1,25 @@
-# The Business Story and the Occupational Novel
+---
+documentclass: article
+mainfont: "fbb"
+fontsize: 11pt
+geometry: margin=1.5in
+header-includes:
+- \usepackage{fancyhdr, array, ifthen}
+- \newcommand{\sectionbreak}{\clearpage}
+- \pagestyle{fancy}
+- \fancyhf{}
+- \renewcommand{\headrulewidth}{0pt}
+- | 
+    \rhead{
+        \ifthenelse{\value{page}=1}
+        {\textbf{Department of English and Comparative Literature} | Summer 2023}
+        {}
+    }
+- \fancyfoot[CO, CE] {\thepage}
+---
 
-Summer 2023
-Prof. Dennis Yi Tenen | dt2406 at columbia
+# The Business Story and the Occupational Novel
+w/ Prof. Dennis Yi Tenen
 
 ## Course Description
 
@@ -14,7 +32,7 @@ procedurals and Japanese business novels.
 Despite its popular image, works in this genre will lead us to profound philosophical questions
 about collective intelligence, personal belonging, the emergence of institutional agency, and
 the feeling of personal powerlessness in the face of large bureaucracies. Readings from Plato,
-Hobbes, Marx, Mary Douglas, Sarah Ahmed other institutional theorists will therefore anchor our
+Hobbes, Marx, Mary Douglas, Sara Ahmed other institutional theorists will therefore anchor our
 weekly discussion.
 
 ## Course Structure
@@ -75,16 +93,16 @@ comprehension.
 
 ### Further reading (not part of the class)
 
-- *Vin de champagne (1908), Le Rail (1912), and Le Lin (1924) by Pierre Hamp (Henri
-  Bourrillon). 
+- *Vin de champagne* (1908), *Le Rail* (1912), and *Le Lin* (1924) by Pierre Hamp (Henri
+  Bourrillon).
 - Andrei Platonov’s *Foundation Pit* (~1930s); Marietta Shaginian’s *Hydroplant* (1931); and
   Yuri Krymov’s *Tanker ‘Derbent’* (1938).
 - *Parking Garage* (1977) and Supermarket (1980) by Ilia Shtemler; *Freedom Factory* (2013) by
-  Ksenia Buksha and *Laments of Northern Territories* (2014) by Irina Glebova.  
+  Ksenia Buksha and *Laments of Northern Territories* (2014) by Irina Glebova.
 - *The Green Berets* (1965) by Robin Moore, *MASH* (1968) by Richard Hooker, J.G. Ballard’s;
   Tom Clancy’s *Red Storm Rising* (1986), John Grisham’s *The Firm* (1991)
-- *Microserfs* (1995) by Douglas Coupland, *Company* (2007) by Max Barry, Ravi
-  Subramanian’s Bankrupt (2013), *The Circle* (2013) by Dave Eggers.
+- *Microserfs* (1995) by Douglas Coupland, *Company* (2007) by Max Barry, Ravi Subramanian’s
+  Bankrupt (2013), *The Circle* (2013) by Dave Eggers.
 
 ## Course Requirements & Grading
 
