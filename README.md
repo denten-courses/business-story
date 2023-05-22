@@ -19,7 +19,9 @@ header-includes:
 ---
 
 # The Business Story and the Occupational Novel
-w/ Prof. Dennis Yi Tenen
+w/ Prof. Dennis Yi Tenen  
+MW 1:00pm-4:10pm  
+511 Hamilton Hall  
 
 ## Course Description
 
