@@ -56,7 +56,7 @@ active comprehension.
 
 ### Week 1
 
-- Selections from Pierre Hamp's [*People*[13] (1917) including "The Fried-potato Sisters," "At the
+- Selections from Pierre Hamp's [*People*][13] (1917) including "The Fried-potato Sisters," "At the
   Chevalier Restaurant," and "A Labour Demonstration."
 - [Book IV][11] in Plato's *Republic* and Chapters XVI and XVII in [*Leviathan*][12] by Thomas Hobbes.
 - Passage work. Close reading. Reading aloud.
