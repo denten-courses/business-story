@@ -83,7 +83,7 @@ Volume 22, Issue 2 p. 307-325 (1911).
 
 - *Cement* (1924) by Fyodor Gladkov.
 - Selections from the *The Principles of Scientific Management* by Frederick Taylor.
-- Chapters 4 and 6 from [*How Institutions Think*][22] by Mary Douglas.
+- Chapters 4 and 6 from [*How Institutions Think*][22] (1986) by Mary Douglas.
 - Playing Overcooked!
 
 ### Week 4
