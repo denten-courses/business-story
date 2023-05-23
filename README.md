@@ -70,8 +70,10 @@ active comprehension.
 ### Week 2
 
 - Selections from *The Octopus* (1901) by Frank Norris.
-- Selections from *How Institutions Think* by Mary Douglas.
+- Chapters 4 and 6 from [*How Institutions Think*][22] by Mary Douglas.
 - Mapping time, space, social networks.
+
+[22]: https://courseworks2.columbia.edu/files/17652525/download?download_frd=1
 
 ### Week 3
 
