@@ -71,9 +71,11 @@ active comprehension.
 
 - Selections from *The Octopus* (1901) by Frank Norris.
 - Chapters 4 and 6 from [*How Institutions Think*][22] by Mary Douglas.
+- Explore Chapters 4 ("Evolution of Group Organization") and pages 256--264 ("Networks") in [*Who Shall Survive?*][23] by Jacob Moreno.
 - Mapping time, space, social networks.
 
 [22]: https://courseworks2.columbia.edu/files/17652525/download?download_frd=1
+[23]: https://archive.org/download/whoshallsurviven00jlmo/whoshallsurviven00jlmo.pdf
 
 ### Week 3
 
