@@ -72,7 +72,7 @@ active comprehension.
 - Selections from *The Octopus* (1901) by Frank Norris.
 - "[The Ant-colony as an Organism][24]" by William Morton Wheeler in *Journal of Morphology*
 Volume 22, Issue 2 p. 307-325 (1911).
-- Explore Chapters 4 ("Evolution of Group Organization") and pages 256--264 ("Networks") in [*Who Shall Survive?*][23](1934) by Jacob Moreno.
+- Explore Chapters 4 ("Evolution of Group Organization") and pages 256--264 ("Networks") in [*Who Shall Survive?*][23] (1934) by Jacob Moreno.
 - Mapping time, space, social networks.
 
 [22]: https://courseworks2.columbia.edu/files/17652525/download?download_frd=1
