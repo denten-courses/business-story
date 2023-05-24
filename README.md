@@ -18,7 +18,7 @@ header-includes:
 - \fancyfoot[CO, CE] {\thepage}
 ---
 
-# The Business Story and the Occupational Novel
+# The Business Story
 w/ Prof. Dennis Yi Tenen  
 MW 1:00pm-4:10pm  
 511 Hamilton Hall  
