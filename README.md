@@ -69,7 +69,7 @@ active comprehension.
 
 ### Week 2
 
-- Group reading Chapters 1--5 from *The Octopus* (1901) by Frank Norris.
+- Group reading Chapters 1--4 from [*The Octopus*][25] (1901) by Frank Norris.
 - "[The Ant-colony as an Organism][24]" by William Morton Wheeler in *Journal of Morphology*
 Volume 22, Issue 2 p. 307-325 (1911).
 - Explore Chapters 4 ("Evolution of Group Organization") and pages 256--264 ("Networks") in [*Who Shall Survive?*][23] (1934) by Jacob Moreno.
@@ -78,6 +78,7 @@ Volume 22, Issue 2 p. 307-325 (1911).
 [22]: https://courseworks2.columbia.edu/files/17652525/download?download_frd=1
 [23]: https://archive.org/download/whoshallsurviven00jlmo/whoshallsurviven00jlmo.pdf
 [24]: https://onlinelibrary-wiley-com.ezproxy.cul.columbia.edu/doi/abs/10.1002/jmor.1050220206
+[25]: https://archive.org/details/completeworksfr00blacgoog
 
 ### Week 3
 
