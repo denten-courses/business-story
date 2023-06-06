@@ -105,9 +105,8 @@ Volume 22, Issue 2 p. 307-325 (1911).
 - "[Romance in Money: The Phenomenon of Japanese Business Novels][51]" by Tamae Prindle in *The
   Journal of the Association of Teachers of Japanese*, Vol. 25, No. 2 (Nov., 1991), pp.
 195-215.
-- *Made in Japan* by Saburo Shiroyama and "Giants and Toys" by Takeshi Kaiko from the volume of
+- "Made in Japan" by Saburo Shiroyama and "Giants and Toys" by Takeshi Kaiko from the volume of
   collected stories, [*Made in Japan*][52].
-- Selections from *How to Read Business Novels* by Makoto Sataka.
 - Archival work in professional self-help literature.
 
 [51]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/489260
