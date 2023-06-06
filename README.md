@@ -82,10 +82,14 @@ Volume 22, Issue 2 p. 307-325 (1911).
 
 ### Week 3
 
-- *Cement* (1924) by Fyodor Gladkov.
+- ["Overcoat" and "The Nose"][31] by Gogol.
+- Chapters 1--4 in [*Cement*][32] (1924) by Fyodor Gladkov.
 - Selections from the *The Principles of Scientific Management* by Frederick Taylor.
 - Chapters 4 and 6 from [*How Institutions Think*][22] (1986) by Mary Douglas.
 - Playing Overcooked!
+
+[31]: https://courseworks2.columbia.edu/files/17686612/download?download_frd=1
+[32]: https://courseworks2.columbia.edu/files/17686625/download?download_frd=1
 
 ### Week 4
 
