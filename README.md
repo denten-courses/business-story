@@ -95,20 +95,33 @@ Volume 22, Issue 2 p. 307-325 (1911).
 ### Week 4
 
 - Selection from *Cop Hater* (1956).
-- Selections from Sara Ahmed's *Willful Subjects*.
+- "The General Will" (Chapter 3) from Sara Ahmed's [*Willful Subjects*.][42]
 - Parsing a sentence. Volitional dynamics between subject and object.
+
+[42]: https://courseworks2.columbia.edu/courses/175969/files?preview=17686699
 
 ### Week 5
 
-- Satoshi Azuchi’s *Supermarket* (1984) and *Export* (1957) by Saburo Shiroyama.
+- "[Romance in Money: The Phenomenon of Japanese Business Novels][51]" by Tamae Prindle in *The
+  Journal of the Association of Teachers of Japanese*, Vol. 25, No. 2 (Nov., 1991), pp.
+195-215.
+- *Made in Japan* by Saburo Shiroyama and "Giants and Toys" by Takeshi Kaiko from the volume of
+  collected stories, [*Made in Japan*][52].
 - Selections from *How to Read Business Novels* by Makoto Sataka.
 - Archival work in professional self-help literature.
+
+[51]: https://www-jstor-org.ezproxy.cul.columbia.edu/stable/489260
+[52]: https://courseworks2.columbia.edu/courses/175969/files?preview=17686745
 
 ### Week 6
 
 - Selections from Arthur Hailey's *Airport* (1968).
-- "How a Cockpit Remembers its Speeds," by Edwin Hutchins.
+- "[How a Cockpit Remembers its Speeds][62]," by Edwin Hutchins.
+- "[Distributed Agency in the Novel][63]" by Dennis Yi Tenen.
 - Site visit.
+
+[62]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwj1wYCYpa__AhXZElkFHYpnAroQFnoECAwQAQ&url=https%3A%2F%2Fpages.ucsd.edu%2F~ehutchins%2Fdocuments%2FCockpitSpeeds.pdf&usg=AOvVaw2c5bysVhNLQn3vceUca3Rd
+[63]: https://muse-jhu-edu.ezproxy.cul.columbia.edu/pub/1/article/898333
 
 ### Further reading (not part of the class)
 
