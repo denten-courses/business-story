@@ -94,11 +94,12 @@ Volume 22, Issue 2 p. 307-325 (1911).
 
 ### Week 4
 
-- Selection from *Cop Hater* (1956).
+- All of [*Cop Hater*][41] (1956).
 - "The General Will" (Chapter 3) from Sara Ahmed's [*Willful Subjects*.][42]
-- Parsing a sentence. Volitional dynamics between subject and object.
+- lexicon, jargon
 
 [42]: https://courseworks2.columbia.edu/courses/175969/files?preview=17686699
+[41]: https://courseworks2.columbia.edu/courses/175969/files?preview=17730938
 
 ### Week 5
 
